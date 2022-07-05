@@ -1,4 +1,3 @@
 # sample
-sample 
-test
-updates
+sample
+test user
